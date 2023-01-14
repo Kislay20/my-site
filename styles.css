@@ -198,6 +198,23 @@ h3 {
     margin: 10px;
 }
 
+.gallery {
+    margin-top: 90px;
+}
+
+.carousel-image {
+    border-radius: 10px;
+    height:500px;
+    width: 400px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.carousel-div {
+    text-align: center;
+}
 /* @media (max-width: 991.20px) {
     #title {
         text-align: center;
