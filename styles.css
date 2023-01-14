@@ -136,7 +136,7 @@ a:hover {
 #footer {
     background-color: #000;
     text-align: center;
-    padding: 3% 7%;
+    padding: 7% 15%;
 }
 .icon {
     color: #e2bf56;
@@ -192,6 +192,10 @@ h3 {
 
 .image-hover:hover .overlay {
     opacity: 0.8;
+}
+
+.last {
+    margin: 10px;
 }
 
 /* @media (max-width: 991.20px) {
