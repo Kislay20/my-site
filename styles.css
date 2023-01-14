@@ -215,6 +215,16 @@ h3 {
 .carousel-div {
     text-align: center;
 }
+
+.box-carousel {
+    margin: 200px 80px 100px 80px;
+    width: 800px;
+}
+
+.brand-carousel {
+    margin: 200px 80px 100px 80px;
+    width: 650px;
+}
 /* @media (max-width: 991.20px) {
     #title {
         text-align: center;
