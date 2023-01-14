@@ -1,0 +1,194 @@
+body {
+    background-color: #ffc107;
+}
+
+a:hover {
+    color: #fff;
+}
+
+#title {
+    background-color: #212529;
+}
+
+#recipes {
+    text-align: center;
+}
+
+.nav-link {
+    color: #ffc107 !important;
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    color: #fff !important; 
+}
+
+.nav-link:visited {
+    color: #fff;
+}
+
+.main {
+    background-color: #ffc107;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0;
+}
+
+.carousel-image {
+    
+}
+
+.carousel-div {
+    
+}
+
+
+
+/* SquareDiv */
+.square-div {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.title-image {
+    border-radius: 10%;
+    height: 90%;
+    width: 90%;
+}
+
+.curve {
+    background-color: #ffc107;
+    border: solid 3px #000;
+    border-radius: 96px;
+    margin: 70px 10px;
+}
+
+/* Product Page */
+
+.product-image {
+    border-radius: 10%;
+    width: 100%;
+    height: 92%;
+}
+
+.product-image-large {
+    border-radius: 10%;
+    width: 100%;
+    height: 90%;
+}
+
+
+.full-image {
+    margin-bottom: 30px;
+}
+
+.product-image-huge {
+    border-radius: 60px;
+    width: 100%;
+    height: 100%;
+}
+
+.product {
+    margin: 0 10px 0 20px;
+}
+
+.curve2 {
+    border: solid 3px #000;
+    border-radius: 62px;
+    width: 100%;
+    height: 62%;
+}
+
+.product-col {
+   
+}
+
+/* About Page */
+.about-image {
+
+    height: 60%;
+    width: 80%;
+}
+
+.about-main {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.image-div {
+    text-align: center;
+    padding: 50px 50px 0;
+}
+
+.custom {
+    margin-left: 129px;
+}
+
+.custom-cls {
+    padding-left: 70px;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+#footer {
+    background-color: #000;
+    text-align: center;
+    padding: 3% 7%;
+}
+.icon {
+    color: #e2bf56;
+}
+.icon:hover {
+    color: #fff;
+}
+
+.copyright {
+    color: grey;
+}
+
+h3 {
+    color: #fff;
+}
+
+.recipes {
+    text-align: center;
+}
+
+.image-card {
+    padding: 50px;
+}
+
+.about-image {
+    border-radius: 10px;
+    height: 220px;
+    width: 220px;
+}
+
+.about {
+    text-align: center;
+    margin-bottom: 50px;    
+}
+
+.main-image {
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+}
+
+.card-image:hover {
+    background-color: #000;
+}
+
+
+/* @media (max-width: 991.20px) {
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+} */
