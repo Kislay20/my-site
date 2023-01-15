@@ -19,8 +19,14 @@ a:hover {
     font-size: 20px;
 }
 
+.nav-link#enquiry {
+    background-color: red;
+    color: #fff !important;
+}
+
+
 .nav-link:hover {
-    color: #fff !important; 
+    color: #fff !important;
 }
 
 .nav-link:visited {
@@ -35,13 +41,9 @@ a:hover {
     margin: 0;
 }
 
-.carousel-image {
-    
-}
+.carousel-image {}
 
-.carousel-div {
-    
-}
+.carousel-div {}
 
 
 
@@ -100,9 +102,7 @@ a:hover {
     height: 62%;
 }
 
-.product-col {
-   
-}
+.product-col {}
 
 /* About Page */
 .about-image {
@@ -138,9 +138,11 @@ a:hover {
     text-align: center;
     padding: 7% 15%;
 }
+
 .icon {
     color: #e2bf56;
 }
+
 .icon:hover {
     color: #fff;
 }
@@ -169,7 +171,7 @@ h3 {
 
 .about {
     text-align: center;
-    margin-bottom: 50px;    
+    margin-bottom: 50px;
 }
 
 .main-image {
@@ -204,7 +206,7 @@ h3 {
 
 .carousel-image {
     border-radius: 10px;
-    height:500px;
+    height: 500px;
     width: 400px;
     margin-top: 200px;
     margin-bottom: 100px;
@@ -225,6 +227,18 @@ h3 {
     margin: 200px 80px 100px 80px;
     width: 650px;
 }
+
+.detail-div {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.detail-img {
+    border-radius: 1.25rem;
+    height: 43.75rem;
+    width: 37.5rem;
+}
+
 /* @media (max-width: 991.20px) {
     #title {
         text-align: center;
