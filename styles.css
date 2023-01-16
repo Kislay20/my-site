@@ -16,7 +16,7 @@ a:hover {
 
 .nav-link {
     color: #ffc107 !important;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .nav-link#enquiry {
@@ -35,9 +35,7 @@ a:hover {
 
 .main {
     background-color: #ffc107;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: 1.25rem 1.25rem 0 1.25rem;
     margin: 0;
 }
 
@@ -50,7 +48,7 @@ a:hover {
 /* SquareDiv */
 .square-div {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 4.375rem;
 }
 
 .title-image {
@@ -61,9 +59,9 @@ a:hover {
 
 .curve {
     background-color: #ffc107;
-    border: solid 3px #000;
-    border-radius: 96px;
-    margin: 70px 10px;
+    border: solid 0.1875rem #000;
+    border-radius: 6rem;
+    margin: 4.375rem 0.625rem;
 }
 
 /* Product Page */
@@ -82,22 +80,22 @@ a:hover {
 
 
 .full-image {
-    margin-bottom: 30px;
+    margin-bottom: 1.875rem;
 }
 
 .product-image-huge {
-    border-radius: 60px;
+    border-radius: 3.75rem;
     width: 100%;
     height: 100%;
 }
 
 .product {
-    margin: 0 10px 0 20px;
+    margin: 0 0.625rem 0 1.25rem;
 }
 
 .curve2 {
-    border: solid 3px #000;
-    border-radius: 62px;
+    border: solid 0.1875rem #000;
+    border-radius: 3.875rem;
     width: 100%;
     height: 62%;
 }
@@ -112,25 +110,25 @@ a:hover {
 }
 
 .about-main {
-    margin-left: 20px;
-    margin-right: 5px;
+    margin-left: 1.25rem;
+    margin-right: 0.3125rem;
 }
 
 .image-div {
     text-align: center;
-    padding: 50px 50px 0;
+    padding: 3.125rem 3.125rem 0;
 }
 
 .custom {
-    margin-left: 129px;
+    margin-left: 8.0625rem;
 }
 
 .custom-cls {
-    padding-left: 70px;
+    padding-left: 4.375rem;
 }
 
 .social-icon {
-    margin: 20px 10px;
+    margin: 1.25rem 0.625rem;
 }
 
 #footer {
@@ -160,24 +158,24 @@ h3 {
 }
 
 .image-card {
-    padding: 50px;
+    padding: 3.125rem;
 }
 
 .about-image {
-    border-radius: 10px;
-    height: 220px;
-    width: 220px;
+    border-radius: 0.625rem;
+    height: 13.75rem;
+    width: 13.75rem;
 }
 
 .about {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 3.125rem;
 }
 
 .main-image {
-    height: 300px;
-    width: 300px;
-    border-radius: 200px;
+    height: 18.75rem;
+    width: 18.75rem;
+    border-radius: 12.5rem;
 }
 
 .overlay {
@@ -211,21 +209,21 @@ h3 {
 }
 
 .last {
-    margin: 10px;
+    margin: 0.625rem;
 }
 
 #gallery {
-    margin-top: 80px;
+    margin-top: 5rem;
 }
 
 .carousel-image {
-    border-radius: 10px;
-    height: 500px;
-    width: 400px;
-    margin-top: 200px;
-    margin-bottom: 100px;
-    margin-left: 80px;
-    margin-right: 80px;
+    border-radius: 0.625rem;
+    height: 31.25rem;
+    width: 25rem;
+    margin-top: 12.5rem;
+    margin-bottom: 6.25rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
 }
 
 .carousel-div {
@@ -233,18 +231,18 @@ h3 {
 }
 
 .box-carousel {
-    margin: 200px 80px 100px 80px;
-    width: 800px;
+    margin: 12.5rem 5rem 6.25rem 5rem;
+    width: 50rem;
 }
 
 .brand-carousel {
-    margin: 200px 80px 100px 80px;
-    width: 650px;
+    margin: 12.5rem 5rem 6.25rem 5rem;
+    width: 40.625rem;
 }
 
 .detail-div {
     text-align: center;
-    margin-top: 150px;
+    margin-top: 9.375rem;
 }
 
 .detail-img {
@@ -254,7 +252,7 @@ h3 {
 }
 
 #mission {
-    margin: 80px 0 0 0;
+    margin: 5rem 0 0 0;
 }
 
 ul {
