@@ -159,6 +159,7 @@ h3 {
 
 .image-card {
     padding: 3.125rem;
+    
 }
 
 .about-image {
@@ -257,6 +258,15 @@ h3 {
 
 ul {
     font-size: x-large;
+}
+
+.card-text {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.rec-div {
+   
 }
 /* @media (max-width: 991.20px) {
     #title {
