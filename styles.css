@@ -196,8 +196,9 @@ h3 {
 }
 
 .team:hover {
-    background-color: rgb(132, 21, 21);
+    background-color: rgb(167, 33, 33);
     color: #fff;
+    transition: 0.5s ease-in;
 }
 
 .info-link {
@@ -206,7 +207,7 @@ h3 {
 }
 
 .info-link:hover {
-    
+   
 }
 
 .last {
