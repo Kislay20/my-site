@@ -263,7 +263,7 @@ ul {
 
 
 @media (max-width:1101px) {
-    .carousel-image {
+    /* .carousel-image {
         border-radius: 0.625rem;
         height: 31.5rem;
         width: 13rem;
@@ -272,6 +272,18 @@ ul {
 
     .media-carousel {
         margin-top: 12.25rem;
+    } */
+    .nav-link {
+        color: #ffc107 !important;
+        font-size: 2.25rem;
+    }
+
+    ul {
+        font-size: xx-large;
     }
     
+    .card-text {
+        font-size: xx-large;
+        font-weight: 600;
+    }
 }
