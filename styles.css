@@ -39,11 +39,6 @@ a:hover {
     margin: 0;
 }
 
-.carousel-image {}
-
-.carousel-div {}
-
-
 
 /* SquareDiv */
 .square-div {
@@ -266,15 +261,15 @@ ul {
     font-weight: 600;
 }
 
-.rec-div {
-   
-}
-/* @media (max-width: 991.20px) {
-    #title {
-        text-align: center;
-    }
-    .title-image {
-        position: static;
-        transform: rotate(0);
+
+/* @media (max-width: 1165.60px) {
+    .carousel-image {
+        border-radius: 0.625rem;
+        height: 31.25rem;
+        width: 25rem;
+        margin-top: 12.5rem;
+        margin-bottom: 6.25rem;
+        margin-left: 5rem;
+        margin-right: 5rem;
     }
 } */
