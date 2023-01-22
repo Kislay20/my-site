@@ -262,15 +262,16 @@ ul {
 }
 
 
-@media (max-width:1000px) {
+@media (max-width:1101px) {
     .carousel-image {
         border-radius: 0.625rem;
         height: 31.5rem;
         width: 13rem;
-        margin: 0rem 1rem 1rem 0rem;
-        padding: 5rem 0;
+        margin: 0rem 1rem 1rem 0rem;        
     }
-    #title {
-        margin-top: 9.25rem;
+
+    .media-carousel {
+        margin-top: 12.25rem;
     }
+    
 }
