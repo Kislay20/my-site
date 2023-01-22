@@ -282,8 +282,24 @@ ul {
         font-size: xx-large;
     }
     
-    .card-text {
-        font-size: xx-large;
-        font-weight: 600;
+    .fa-2xl {
+        font-size: 2.5rem;
     }
+
+    .fa-l {
+        font-size: 1.5rem;
+    }
+
+    h5 {
+        font-size: 1.8rem;
+    }
+
+    p {
+        font-size: larger;
+    }
+    
+    h4 {
+        font-size: 1.7rem;
+    }
+
 }
